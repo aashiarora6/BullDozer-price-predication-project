@@ -1,4 +1,6 @@
 # BullDozer-price-predication-project
+LINK OF COMPETITION:
+https://www.kaggle.com/c/bluebook-for-bulldozers/overview
 
 So since last couple of days I was working on a Bulldozer-price-predication model
 basically this was a contest on kaggle launched before 8 years!!!
